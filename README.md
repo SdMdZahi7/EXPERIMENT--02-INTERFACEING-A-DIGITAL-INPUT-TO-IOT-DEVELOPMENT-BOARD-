@@ -154,7 +154,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
-
+~~~
 ## Output  :
  ## BEFORE DETECTION OF AN OBJECT:
  ![iot 2 1](https://user-images.githubusercontent.com/94187572/228330252-c8c5bda1-b674-4d32-9c8e-3723c5a8f679.png)
